@@ -21,7 +21,7 @@ Unlike manual driver searches on manufacturer websites, **Driver Talent software
 The utility of **Driver Talent driver updater** extends to fixing common driver-related problems, such as network adapter failures, audio glitches, printer errors, and graphics card performance issues. Its intuitive interface makes advanced driver management accessible to both novice users and IT professionals, ensuring that any Windows PC or laptop maintains peak performance, security, and hardware compatibility.
 
 <p align="center">
-  <img src="https://www.lifewire.com/thmb/DEj3gwT47OheuRMbxRSnGAGEMK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/driver-talent-46e37674a4924e19ae04db6430e905be.png" alt="Driver Talent Screenshot"/>
+  <img src="https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/e00b356f-35ce-4f02-be46-a3f2aa338ebd/663226675/driver-talent-repair-new.png" alt="Driver Talent Screenshot"/>
 </p>
 
 ---
